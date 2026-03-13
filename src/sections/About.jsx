@@ -104,7 +104,7 @@ const About = () => {
 
                             <div className="relative z-10">
                                 <span className="text-xs font-bold uppercase tracking-widest text-white/60">
-                                    3rd March 2026
+                                    23rd March 2026
                                 </span>
                                 <h3 className="text-2xl font-bold mt-2 leading-snug">
                                     FACE Prep Campus <br /> Intra Campus Event

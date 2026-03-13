@@ -125,7 +125,7 @@ export const events = {
             location: "Craft",
             image: "./paperArt.jfif",
             instructions: [
-                "Individual or team participation allowed.",
+                "Team Participation — 4 members per team.",
                 "Bring your own materials — paper, scissors, glue, etc.",
                 "Only cutting and folding techniques allowed.",
                 "No pre-made templates or printed designs.",

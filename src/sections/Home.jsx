@@ -39,7 +39,7 @@ const Home = () => {
 
                 <div className="flex items-center gap-4 mb-8">
                     <p className="flex items-center gap-2 text-sm md:text-xl text-white/80 font-semibold capitalize tracking-wide">
-                        <CalendarDays size={24} /> 3rd March 2026
+                        <CalendarDays size={24} /> 23rd March 2026
                     </p>
                     <span>|</span>
                     <p className="flex items-center gap-2 text-sm md:text-xl text-white/80 font-semibold capitalize tracking-wide">
