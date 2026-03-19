@@ -5,16 +5,16 @@ export const events = {
             title: "Bug Blaster",
             description:
                 "Identify logic errors and syntax bugs in the provided code snippets and fix them.",
-            time: "10:00 - 11:00 AM",
+            time: "10:30 AM - 11:00 AM",
             location: "Abdul Kalam Arangam",
             image: "./bugBlaster.jfif",
             instructions: [
                 "Code snippets will be given on the spot.",
                 "Identify and fix all logic and syntax errors.",
-                "Allowed languages — C, Java, or Python.",
+                "Allowed languages — C, C++, or Java.",
                 "No internet or external tools allowed.",
                 "Most bugs fixed in least time wins.",
-                "Report to Abdul Kalam Arangam by 9:45 AM.",
+                "Report to Abdul Kalam Arangam by 10:15 AM.",
             ],
             formUrl: "https://docs.google.com/forms/d/e/1FAIpQLScFe4aVKA1cWLd7_ExBOtfsbuqUEG7mFpxt2b-fmt0wLXCHkA/viewform?embedded=true",
             category: "TECHNICAL",
@@ -24,7 +24,7 @@ export const events = {
             title: "Code Warrior",
             description:
                 "A competitive programming contest to solve algorithmic problems.",
-            time: "11:00 - 12:00 PM",
+            time: "11:00 AM - 12:15 PM",
             location: "Abdul Kalam Arangam",
             image: "./codeWarrior.jfif",
             instructions: [
@@ -42,7 +42,7 @@ export const events = {
             title: "Shadow Designer",
             description:
                 "Showcase your UI/UX skills by redesigning a given interface.",
-            time: "Full Day Event",
+            time: "01:15 PM - 02:00 PM",
             location: "Abdul Kalam Arangam",
             image: "./shadowDesigner.jfif",
             instructions: [
@@ -51,7 +51,7 @@ export const events = {
                 "Full day event — manage your time wisely.",
                 "Submit final design before closing time.",
                 "Judged on creativity, usability, and presentation.",
-                "Report to Abdul Kalam Arangam by 9:45 AM.",
+                "Report to Abdul Kalam Arangam by 1:00 PM.",
             ],
             formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfkz5_p2K9tKKXEeiCOYlPEL2V7XTfDugRVWzVSVUxR-RQDcA/viewform?embedded=true",
             category: "TECHNICAL",
@@ -64,7 +64,7 @@ export const events = {
             title: "Convince Me If You Can",
             description:
                 "Test your persuasion skills by selling a unique or fun idea to the audience and judges.",
-            time: "11:00 - 12:00 PM",
+            time: "11:00 AM - 12:15 PM",
             location: "Abdul Kalam Arangam",
             image: "./convinceMeIfYouCan.jfif",
             instructions: [
@@ -82,7 +82,7 @@ export const events = {
             title: "Picture Talk",
             description:
                 "Look at a random picture and weave a compelling story or description around it.",
-            time: "12:00 - 12:30 PM",
+            time: "10:30 AM - 11:00 AM",
             location: "Abdul Kalam Arangam",
             image: "./pictureTalk.jpg",
             instructions: [
@@ -90,7 +90,7 @@ export const events = {
                 "30 seconds to think.",
                 "1 minute to speak — no notes allowed.",
                 "Judged on fluency, creativity, and confidence.",
-                "Report to Abdul Kalam Arangam by 11:45 AM.",
+                "Report to Abdul Kalam Arangam by 10:15 AM.",
             ],
             formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSeI6Vo7eezxOKHSQhr28ns0QQNJ4zyRTA3_V8WU5_4m3cwKsg/viewform?usp=sharing&ouid=111475720317182452936",
             category: "COMMUNICATION",
@@ -98,70 +98,11 @@ export const events = {
     ],
     business: [
         {
-            id: 1,
-            title: "Pipe & Ball",
-            description:
-                "A fun team building activity requiring coordination, strategy, and steady hands.",
-            time: "10:00 - 11:00 AM",
-            location: "Abdul Kalam Arangam",
-            image: "./pipeBall.jfif",
-            instructions: [
-                "4 members per team.",
-                "Connect all 4 pipes to form one channel.",
-                "Move the ball start to finish — no hand contact.",
-                "Ball drops or stops? Restart from beginning.",
-                "Fastest team wins.",
-                "Report to Abdul Kalam Arangam by 9:45 AM.",
-            ],
-            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSc1bhm5LUUi6NCUQPFrSI_cC6-BJdK47Sb7v8oQFbqzWxMasA/viewform?embedded=true",
-            category: "BUSINESS",
-        },
-        {
-            id: 2,
-            title: "Paper Art",
-            description:
-                "Transform simple paper into magnificent art pieces using cutting and folding techniques.",
-            time: "11:00 - 12:00 PM",
-            location: "Abdul Kalam Arangam",
-            image: "./paperArt.jfif",
-            instructions: [
-                "Team Participation — 4 members per team.",
-                "Bring your own materials — paper, scissors, glue, etc.",
-                "Only cutting and folding techniques allowed.",
-                "No pre-made templates or printed designs.",
-                "Best creative piece wins.",
-                "Report to Abdul Kalam Arangam by 10:45 AM.",
-            ],
-            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfayaNotM9Ag4Hf-mq6rozSpyMK-lHHhUzwy7X4y2jJpYaY1g/viewform?embedded=true",
-            category: "BUSINESS",
-        },
-    ],
-    other: [
-        {
-            id: 1,
-            title: "Bharathi Pattarai",
-            description:
-                "A poetry competition celebrating the fiery words and wisdom of Mahakavi Bharathiyar.",
-            time: "11:30 - 12:30 PM",
-            location: "Abdul Kalam Arangam",
-            image: "./bharathiyarPattarai.jfif",
-            instructions: [
-                "Topic will be announced on the spot.",
-                "Poetry must be in Tamil.",
-                "Original compositions only — no memorized poems.",
-                "Time limit will be given on the spot.",
-                "Judged on expression, content, and delivery.",
-                "Report to Abdul Kalam Arangam by 11:15 AM.",
-            ],
-            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSevU0igLAwueZL3IExcMpQWtPGP1657uyEiSlIabLoTYHNP5A/viewform?usp=sharing&ouid=111475720317182452936",
-            category: "OTHER",
-        },
-        {
             id: 2,
             title: "Video Editing",
             description:
                 "Showcase your storytelling skills through the art of video editing and visual effects.",
-            time: "11:30 - 12:30 PM",
+            time: "10:30 AM (Starting Time)",
             location: "Abdul Kalam Arangam",
             image: "./videoEditing.jfif",
             instructions: [
@@ -173,6 +114,84 @@ export const events = {
                 "Report to Abdul Kalam Arangam by 11:15 AM.",
             ],
             formUrl: "https://docs.google.com/forms/d/e/1FAIpQLScNfGz1dGTbI7kNxlqjUZDiegKLhb8HSYZIEsi4UOZi77aFYg/viewform?usp=sharing&ouid=111475720317182452936",
+            category: "BUSINESS",
+        },
+        {
+            id: 2,
+            title: "Poster Designing (Canva)",
+            description:
+                "Design a creative and visually appealing digital poster using Canva based on the given theme.",
+            time: "01:15 PM - 02:00 PM",
+            location: "Abdul Kalam Arangam",
+            image: "./posterDesign.jfif",
+            instructions: [
+                "Participants must use Canva only for designing.",
+                "Bring your own laptop/mobile with internet connection.",
+                "The theme will be announced on the spot.",
+                "Avoid using fully pre-made templates; originality is encouraged.",
+                "Judging will be based on creativity, layout, color usage, and originality.",
+                "Report to Abdul Kalam Arangam by 01:00 PM."
+            ],
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfwWJjlNxcDdaebknvRQYPGwGvK-I3RlKthqdXcxGBXqcZZOA/viewform",
+            category: "BUSINESS",
+        },
+    ],
+    other: [
+        {
+            id: 1,
+            title: "Bharathi Pattarai",
+            description:
+                "A poetry competition celebrating the fiery words and wisdom of Mahakavi Bharathiyar.",
+            time: "11:00 AM - 12:15 PM",
+            location: "Abdul Kalam Arangam",
+            image: "./bharathiyarPattarai.jfif",
+            instructions: [
+                "Topic will be announced on the spot.",
+                "Poetry must be in Tamil.",
+                "Original compositions only — no memorized poems.",
+                "Time limit will be given on the spot.",
+                "Judged on expression, content, and delivery.",
+                "Report to Abdul Kalam Arangam by 10:45 AM.",
+            ],
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSevU0igLAwueZL3IExcMpQWtPGP1657uyEiSlIabLoTYHNP5A/viewform?usp=sharing&ouid=111475720317182452936",
+            category: "OTHER",
+        },
+        {
+            id: 2,
+            title: "Pipe & Ball",
+            description:
+                "A fun team building activity requiring coordination, strategy, and steady hands.",
+            time: "01:15 PM - 02:00 PM",
+            location: "Abdul Kalam Arangam",
+            image: "./pipeBall.jfif",
+            instructions: [
+                "4 members per team.",
+                "Connect all 4 pipes to form one channel.",
+                "Move the ball start to finish — no hand contact.",
+                "Ball drops or stops? Restart from beginning.",
+                "Fastest team wins.",
+                "Report to Abdul Kalam Arangam by 01:00 PM.",
+            ],
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSc1bhm5LUUi6NCUQPFrSI_cC6-BJdK47Sb7v8oQFbqzWxMasA/viewform?embedded=true",
+            category: "OTHER",
+        },
+        {
+            id: 3,
+            title: "Paper Art",
+            description:
+                "Transform simple paper into magnificent art pieces using cutting and folding techniques.",
+            time: "10:30 AM (Starting Time)",
+            location: "Abdul Kalam Arangam",
+            image: "./paperArt.jfif",
+            instructions: [
+                "Team Participation — 4 members per team.",
+                "Bring your own materials — paper, scissors, glue, etc.",
+                "Only cutting and folding techniques allowed.",
+                "No pre-made templates or printed designs.",
+                "Best creative piece wins.",
+                "Report to Abdul Kalam Arangam by 10:15 AM.",
+            ],
+            formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSfayaNotM9Ag4Hf-mq6rozSpyMK-lHHhUzwy7X4y2jJpYaY1g/viewform?embedded=true",
             category: "OTHER",
         },
     ],

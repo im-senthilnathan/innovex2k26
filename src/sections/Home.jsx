@@ -22,7 +22,7 @@ const Home = () => {
             <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-white px-4">
 
                 <h1 className="text-4xl md:text-9xl font-poppins tracking-wide font-semibold mb-6 bg-gradient-to-b from-white to-purple-500 bg-clip-text text-transparent uppercase">
-                    Welcome to <br /> INNOVEX 2K26
+                    Welcome to <br /> <span className="text-gold">INNOVEX 2K26</span>
                 </h1>
 
                 <div className="flex items-center gap-4 mb-4">
