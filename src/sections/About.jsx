@@ -116,7 +116,7 @@ const About = () => {
                                 <div className="flex flex-wrap gap-3 mt-5">
                                     {[
                                         { value: "4", label: "Categories" },
-                                        { value: "9", label: "Events" },
+                                        { value: "10", label: "Events" },
                                     ].map((stat) => (
                                         <div
                                             key={stat.label}
