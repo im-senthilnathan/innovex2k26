@@ -98,7 +98,7 @@ export const events = {
     ],
     business: [
         {
-            id: 2,
+            id: 1,
             title: "Video Editing",
             description:
                 "Showcase your storytelling skills through the art of video editing and visual effects.",
